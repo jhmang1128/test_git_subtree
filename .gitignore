@@ -1,2 +1,15 @@
+# dataset
+/dataset/deetas/data_21_10_21/*
+!/dataset/deetas/data_21_10_21/.keep
+
+# pretrain model
 /git_repository/pretrained_models/*
 !/git_repository/pretrained_models/.keep
+
+# sub git repogitory
+/git_repository/object_detector/*
+!/git_repository/object_detector/.keep
+/git_repository/object_tracker/*
+!/git_repository/object_tracker/.keep
+/git_repository/action_classifier/*
+!/git_repository/action_classifier/.keep

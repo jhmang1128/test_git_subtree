@@ -1,0 +1,3 @@
+[submodule "dataset/deetas/preprocess_Deetas_dataset"]
+	path = dataset/deetas/preprocess_Deetas_dataset
+	url = https://github.com/KNUT-DBLAB/preprocess_Deetas_dataset.git
