@@ -10,10 +10,3 @@
 __pycache__
 *.pyc
 
-# sub git repogitory
-# /git_repository/object_detector/*
-# !/git_repository/object_detector/.keep
-# /git_repository/object_tracker/*
-# !/git_repository/object_tracker/.keep
-# /git_repository/action_classifier/*
-# !/git_repository/action_classifier/.keep
