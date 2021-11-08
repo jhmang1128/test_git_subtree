@@ -4,8 +4,8 @@ __pycache__
 
 # dataset
 dataset/deetas/data_21_09_17/
-dataset/deetas/data_21_10_21/
-!/dataset/deetas/data_21_10_21/.keep
+dataset/deetas/data_21_10_21/image
+!/dataset/deetas/data_21_10_21/image/.keep
 
 # pretrain model
 git_repository/pretrained_models/
