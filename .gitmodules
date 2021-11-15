@@ -10,3 +10,12 @@
 [submodule "git_repository/object_tracker/yolov4-deepsort"]
 	path = git_repository/object_tracker/yolov4-deepsort
 	url = https://github.com/KNUT-DBLAB/yolov4-deepsort.git
+[submodule "git_repository/tools/cocoapi"]
+	path = git_repository/tools/cocoapi
+	url = https://github.com/philferriere/cocoapi.git
+[submodule "git_repository/image_classifier/image_classification-LINK"]
+	path = git_repository/image_classifier/image_classification-LINK
+	url = git@github.com:KNUT-DBLAB/image_classification-LINK.git
+[submodule "git_repository/preprocess_data/preprocess_Deetas_dataset"]
+	path = git_repository/preprocess_data/preprocess_Deetas_dataset
+	url = git@github.com:KNUT-DBLAB/preprocess_Deetas_dataset.git
