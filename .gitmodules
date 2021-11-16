@@ -1,21 +1,52 @@
+#########################################################################################################
+# preprocess
+#########################################################################################################
 [submodule "dataset/deetas/preprocess_Deetas_dataset"]
 	path = dataset/deetas/preprocess_Deetas_dataset
 	url = https://github.com/KNUT-DBLAB/preprocess_Deetas_dataset.git
-[submodule "git_repository/action_classifier/LSTM_action_classifier"]
-	path = git_repository/action_classifier/LSTM_action_classifier
-	url = https://github.com/KNUT-DBLAB/LSTM_action_classifier.git
+
+#########################################################################################################
+# multi_classifier
+#########################################################################################################
+[submodule "git_repository/multi_classifier/action_classifier-Deetas"]
+	path = git_repository/multi_classifier/action_classifier-Deetas
+	url = git@github.com:KNUT-DBLAB/action_classifier-Deetas.git
+[submodule "git_repository/multi_classifier/image_classifier-LINK"]
+	path = git_repository/multi_classifier/image_classifier-LINK
+	url = git@github.com:KNUT-DBLAB/image_classifier-LINK.git
+
+#########################################################################################################
+# object_detector
+#########################################################################################################
 [submodule "git_repository/object_detector/Mask_RCNN"]
 	path = git_repository/object_detector/Mask_RCNN
 	url = https://github.com/KNUT-DBLAB/Mask_RCNN.git
+
 [submodule "git_repository/object_tracker/yolov4-deepsort"]
 	path = git_repository/object_tracker/yolov4-deepsort
 	url = https://github.com/KNUT-DBLAB/yolov4-deepsort.git
+
+
+#########################################################################################################
+# object_tracker
+#########################################################################################################
+[submodule "git_repository/object_tracker/yolov4-deepsort"]
+	path = git_repository/object_tracker/yolov4-deepsort
+	url = https://github.com/KNUT-DBLAB/yolov4-deepsort.git
+
+
+#########################################################################################################
+# trash (will find and remove it)
+#########################################################################################################
 [submodule "git_repository/tools/cocoapi"]
 	path = git_repository/tools/cocoapi
 	url = https://github.com/philferriere/cocoapi.git
+
 [submodule "git_repository/image_classifier/image_classification-LINK"]
-	path = git_repository/image_classifier/image_classification-LINK
+	path = git_repository/multi_classifier/image_classification-LINK
 	url = git@github.com:KNUT-DBLAB/image_classification-LINK.git
+	
 [submodule "git_repository/preprocess_data/preprocess_Deetas_dataset"]
 	path = git_repository/preprocess_data/preprocess_Deetas_dataset
 	url = git@github.com:KNUT-DBLAB/preprocess_Deetas_dataset.git
+

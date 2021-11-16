@@ -14,8 +14,12 @@ dataset/deetas/data_21_10_21/image
 !/dataset/deetas/data_21_10_21/image/.keep
 
 ####### Link business group dataset
-dataset/LINK_business_group/date_21_11_15/
 !dataset/LINK_business_group/data_21_11_15/.keep
+!dataset/LINK_business_group/data_21_11_16/.keep
+
+dataset/LINK_business_group/date_21_11_15/
+dataset/LINK_business_group/date_21_11_16/
+
 
 
 #########################################################################################################
