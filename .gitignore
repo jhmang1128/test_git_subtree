@@ -9,17 +9,19 @@ __pycache__
 # dataset
 #########################################################################################################
 ####### Deetas
-dataset/deetas/data_21_09_17/
-dataset/deetas/data_21_10_21/image
-!/dataset/deetas/data_21_10_21/image/.keep
+dataset/deetas/data_21_09_17/image/
+dataset/deetas/data_21_10_21/image/
+dataset/deetas/data_21_11_10/image/
 
 ####### Link business group dataset
-!dataset/LINK_business_group/data_21_11_15/.keep
-!dataset/LINK_business_group/data_21_11_16/.keep
+dataset/LINK_business_group/data_21_11_15/augmentation/
+dataset/LINK_business_group/data_21_11_15/image/
 
-dataset/LINK_business_group/date_21_11_15/
-dataset/LINK_business_group/date_21_11_16/
+dataset/LINK_business_group/data_21_11_16/augmentation/
+dataset/LINK_business_group/data_21_11_16/image/
 
+####### MScoco
+/dataset/mscoco/data_21_11_16/
 
 
 #########################################################################################################
