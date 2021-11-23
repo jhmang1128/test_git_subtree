@@ -33,6 +33,12 @@ pretrained_models/
 #########################################################################################################
 # output of submodule
 #########################################################################################################
+####### Mask RCNN
 /output_submodule/object_detector/Mask_RCNN/evaluation_detect/
 /output_submodule/object_detector/Mask_RCNN/print_log/
 /output_submodule/object_detector/Mask_RCNN/logs/
+
+####### action classifier (Deetas)
+output_submodule/multi_classifier/action_classifier-Deetas/print_log/
+output_submodule/multi_classifier/action_classifier-Deetas/ex_01/
+output_submodule/multi_classifier/action_classifier-Deetas/ex_02/
