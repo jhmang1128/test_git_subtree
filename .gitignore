@@ -21,11 +21,18 @@ dataset/LINK_business_group/data_21_11_16/augmentation/
 dataset/LINK_business_group/data_21_11_16/image/
 
 ####### MScoco
-/dataset/mscoco/data_21_11_16/
+dataset/mscoco/data_21_11_16/
 
 
 #########################################################################################################
 # pretrain model
 #########################################################################################################
-/pretrained_models/
+pretrained_models/
 !/pretrained_models/.keep
+
+#########################################################################################################
+# output of submodule
+#########################################################################################################
+/output_submodule/object_detector/Mask_RCNN/evaluation_detect/
+/output_submodule/object_detector/Mask_RCNN/print_log/
+/output_submodule/object_detector/Mask_RCNN/logs/
