@@ -9,16 +9,11 @@ __pycache__
 # dataset
 #########################################################################################################
 ####### Deetas
-dataset/deetas/data_21_09_17/image/
-dataset/deetas/data_21_10_21/image/
-dataset/deetas/data_21_11_10/image/
+dataset/deetas/data_21_*/image/
 
 ####### Link business group dataset
-dataset/LINK_business_group/data_21_11_15/augmentation/
-dataset/LINK_business_group/data_21_11_15/image/
-
-dataset/LINK_business_group/data_21_11_16/augmentation/
-dataset/LINK_business_group/data_21_11_16/image/
+dataset/LINK_business_group/data_21_*/augmentation/
+dataset/LINK_business_group/data_21_*/image/
 
 ####### MScoco
 dataset/mscoco/data_21_11_16/
@@ -40,5 +35,4 @@ pretrained_models/
 
 ####### action classifier (Deetas)
 output_submodule/multi_classifier/action_classifier-Deetas/print_log/
-output_submodule/multi_classifier/action_classifier-Deetas/ex_01/
-output_submodule/multi_classifier/action_classifier-Deetas/ex_02/
+output_submodule/multi_classifier/action_classifier-Deetas/ex_*/model/
