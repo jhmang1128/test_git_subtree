@@ -10,6 +10,7 @@ __pycache__
 #########################################################################################################
 ####### Deetas
 dataset/deetas/data_21_*/image/
+dataset/deetas/image_integrated/
 
 ####### Link business group dataset
 dataset/LINK_business_group/data_21_*/augmentation/
