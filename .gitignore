@@ -21,6 +21,20 @@ dataset/mscoco/data_21_11_16/
 
 
 #########################################################################################################
+# output_submodule
+#########################################################################################################
+####### data
+output_submodule/deetas/data_21_*/json_act/npz_files/
+output_submodule/deetas/data_21_*/json_act/cropped_image_train.hdf5
+output_submodule/deetas/data_21_*/cropped_image_train.hdf5
+
+####### Mask RCNN
+output_submodule/object_detector/Mask_RCNN/
+
+####### status recognition
+output_submodule/multi_classifier/action_classifier-Deetas/
+
+#########################################################################################################
 # pretrain model
 #########################################################################################################
 pretrained_models/

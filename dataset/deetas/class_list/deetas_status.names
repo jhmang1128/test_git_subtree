@@ -1,0 +1,39 @@
+Person
+Animal
+Vehicle
+Wheeled Object
+Movable Object
+Fixed Object
+Obstruction
+Automatic Door (Opening)
+Automatic Door (Closing)
+Automatic Revolving Door (Moving)
+Automatic Revolving Door (Stopping)
+Sliding Door (Opening)
+Sliding Door (Closing)
+Hinger Door (Opening)
+Hinger Door (Closing)
+Manual Revolving Door (Moving)
+Manual Revolving Door (Stopping)
+Escalator (Moving)
+Escalator (Stopping)
+Elevator (Opening)
+Elevator (Closing)
+Address
+Sign
+Screen
+Up (On)
+Up (Off)
+Down (On)
+Down (Off)
+Open (On)
+Open (Off)
+Close (On)
+Close (Off)
+Floor Button (On)
+Floor Button (Off)
+Emergency Button (On)
+Emergency Button (Off)
+Handle
+Bell
+None
