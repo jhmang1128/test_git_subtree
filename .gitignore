@@ -8,31 +8,39 @@ __pycache__
 #########################################################################################################
 # dataset
 #########################################################################################################
-####### Deetas
-dataset/deetas/data_21_*/image/
-dataset/deetas/image_integrated/
+####### Deetas (raw)
+dataset_2021/Deetas/data_21_*/image/
+dataset_2021/Deetas/image_integrated/
+
+### output (preprocessed)
+dataset_2021/Deetas/data_21_*/json_act/npz_files/
+dataset_2021/Deetas/data_21_*/json_act/cropped_image_train.hdf5
+dataset_2021/Deetas/data_21_*/cropped_image_train.hdf5
+
+### output (model)
+dataset_2021/Deetas/output_action_classifier/
+dataset_2021/Deetas/output_Mask_RCNN/
+
 
 ####### Link business group dataset
-dataset/LINK_business_group/data_21_*/augmentation/
-dataset/LINK_business_group/data_21_*/image/
+dataset_2021/Link/data_21_*/augmentation/
+dataset_2021/Link/data_21_*/image/
 
 ####### MScoco
-dataset/mscoco/data_21_11_16/
+dataset_2021/MS-coco/data_21_11_16/
 
 
 #########################################################################################################
 # output_submodule
 #########################################################################################################
 ####### data
-output_submodule/deetas/data_21_*/json_act/npz_files/
-output_submodule/deetas/data_21_*/json_act/cropped_image_train.hdf5
-output_submodule/deetas/data_21_*/cropped_image_train.hdf5
+
 
 ####### Mask RCNN
-output_submodule/object_detector/Mask_RCNN/
+
 
 ####### status recognition
-output_submodule/multi_classifier/action_classifier-Deetas/
+
 
 #########################################################################################################
 # pretrain model
