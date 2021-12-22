@@ -17,9 +17,14 @@ dataset_2021/Deetas/data_21_*/json_act/npz_files/
 dataset_2021/Deetas/data_21_*/json_act/cropped_image_train.hdf5
 dataset_2021/Deetas/data_21_*/cropped_image_train.hdf5
 
-### output (model)
-dataset_2021/Deetas/output_action_classifier/
-dataset_2021/Deetas/output_Mask_RCNN/
+### output (ConvLSTM)
+dataset_2021/Deetas/output_action_classifier/ex_*/model/
+dataset_2021/Deetas/output_action_classifier/print_log/
+
+### output (MaskRCNN)
+dataset_2021/Deetas/output_Mask_RCNN/generated_mask/
+dataset_2021/Deetas/output_Mask_RCNN/print_log/
+dataset_2021/Deetas/output_Mask_RCNN/logs/
 
 
 ####### Link business group dataset
@@ -31,31 +36,7 @@ dataset_2021/MS-coco/data_21_11_16/
 
 
 #########################################################################################################
-# output_submodule
-#########################################################################################################
-####### data
-
-
-####### Mask RCNN
-
-
-####### status recognition
-
-
-#########################################################################################################
 # pretrain model
 #########################################################################################################
 pretrained_models/
 !/pretrained_models/.keep
-
-#########################################################################################################
-# output of submodule
-#########################################################################################################
-####### Mask RCNN
-/output_submodule/object_detector/Mask_RCNN/evaluation_detect/
-/output_submodule/object_detector/Mask_RCNN/print_log/
-/output_submodule/object_detector/Mask_RCNN/logs/
-
-####### action classifier (Deetas)
-output_submodule/multi_classifier/action_classifier-Deetas/print_log/
-output_submodule/multi_classifier/action_classifier-Deetas/ex_*/model/

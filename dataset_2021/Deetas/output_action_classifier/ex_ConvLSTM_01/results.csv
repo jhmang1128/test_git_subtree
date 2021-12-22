@@ -1,0 +1,10 @@
+model_name,optimizer,loss,epoch,batch_size,learning_rate,idx_repeat,Loss,Accuracy
+model_02,adam,categorical_crossentropy,10,50,0.001,0,0.8870329260826111,0.7320675253868103
+model_02,adam,categorical_crossentropy,10,50,0.001,1,0.7871993780136108,0.7658227682113647
+model_02,adam,categorical_crossentropy,10,50,0.001,2,0.9134179353713989,0.746835470199585
+model_02,adam,categorical_crossentropy,10,50,0.0001,0,0.7911555767059326,0.7658227682113647
+model_02,adam,categorical_crossentropy,10,50,0.0001,1,0.7729640007019043,0.7637130618095398
+model_02,adam,categorical_crossentropy,10,50,0.0001,2,0.8894194960594177,0.7088607549667358
+model_02,adam,categorical_crossentropy,10,50,1e-05,0,0.9527454972267151,0.7320675253868103
+model_02,adam,categorical_crossentropy,10,50,1e-05,1,0.8076144456863403,0.7637130618095398
+model_02,adam,categorical_crossentropy,10,50,1e-05,2,0.9128859043121338,0.7573839426040649
