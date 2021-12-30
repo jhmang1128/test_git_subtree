@@ -1,10 +1,6 @@
-Person
-Animal
-Vehicle
-Wheeled Object
-Movable Object
+None
 Fixed Object
-Obstruction
+Obstruction (Avoiding)
 Automatic Door (Opening)
 Automatic Door (Closing)
 Automatic Revolving Door (Moving)
@@ -22,18 +18,5 @@ Elevator (Closing)
 Address
 Sign
 Screen
-Up (On)
-Up (Off)
-Down (On)
-Down (Off)
-Open (On)
-Open (Off)
-Close (On)
-Close (Off)
-Floor Button (On)
-Floor Button (Off)
-Emergency Button (On)
-Emergency Button (Off)
 Handle
 Bell
-None
