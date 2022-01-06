@@ -9,12 +9,12 @@ __pycache__
 # dataset
 #########################################################################################################
 ####### Deetas (raw and preprocessed)
-dataset_2021/Deetas/data_21_*/image/
+dataset_2021/Deetas/data_2*/image/
 dataset_2021/Deetas/image_integrated/
 
-# dataset_2021/Deetas/data_21_*/json_MaskRCNN/
-dataset_2021/Deetas/data_21_*/json_ConvLSTM/npz_files/
-dataset_2021/Deetas/data_21_*/json_ConvLSTM/cropped_image_train.hdf5
+# dataset_2021/Deetas/data_2*/json_MaskRCNN/
+dataset_2021/Deetas/data_2*/json_ConvLSTM/npz_files/
+dataset_2021/Deetas/data_2*/json_ConvLSTM/cropped_image_train.hdf5
 
 ### output (ConvLSTM)
 dataset_2021/Deetas/output_action_classifier/ex_*/model/
@@ -26,8 +26,8 @@ dataset_2021/Deetas/output_Mask_RCNN/print_log/
 dataset_2021/Deetas/output_Mask_RCNN/logs/
 
 ####### Link business group dataset
-dataset_2021/Link/data_21_*/augmentation/
-dataset_2021/Link/data_21_*/image/
+dataset_2021/Link/data_2*/augmentation/
+dataset_2021/Link/data_2*/image/
 
 ####### MScoco
 dataset_2021/MS-coco/data_21_11_16/
