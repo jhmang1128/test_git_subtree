@@ -15,6 +15,7 @@ dataset_2021/Deetas/image_integrated/
 # dataset_2021/Deetas/data_2*/json_MaskRCNN/
 dataset_2021/Deetas/data_2*/json_ConvLSTM/npz_files/
 dataset_2021/Deetas/data_2*/json_ConvLSTM/cropped_image_train.hdf5
+dataset_2021/Deetas/data_2*/json_ConvLSTM/dataset_with_cropped_image.hdf5
 
 ### output (ConvLSTM)
 dataset_2021/Deetas/output_action_classifier/ex_*/model/
