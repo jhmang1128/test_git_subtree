@@ -34,3 +34,6 @@
 #########################################################################################################
 # trash (will find and remove it)
 #########################################################################################################
+[submodule "git_repository/object_detector/upgraded_repository/Mask_RCNN"]
+	path = git_repository/object_detector/upgraded_repository/Mask_RCNN
+	url = https://github.com/akTwelve/Mask_RCNN.git
