@@ -37,3 +37,6 @@
 [submodule "git_repository/object_detector/upgraded_repository/Mask_RCNN"]
 	path = git_repository/object_detector/upgraded_repository/Mask_RCNN
 	url = https://github.com/akTwelve/Mask_RCNN.git
+[submodule "git_repository/object_detector/upgraded_repository/Mask_RCNN_tf_2.x"]
+	path = git_repository/object_detector/upgraded_repository/Mask_RCNN_tf_2.x
+	url = https://github.com/BupyeongHealer/Mask_RCNN_tf_2.x.git
