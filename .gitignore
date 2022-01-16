@@ -19,7 +19,6 @@ dataset_2021/Deetas/data_2*/json_ConvLSTM/dataset_with_cropped_image.hdf5
 
 ### output (ConvLSTM)
 dataset_2021/Deetas/output_action_classifier/ex_*/model/
-dataset_2021/Deetas/output_action_classifier/print_log/
 
 ### output (MaskRCNN)
 dataset_2021/Deetas/output_Mask_RCNN/generated_mask/
