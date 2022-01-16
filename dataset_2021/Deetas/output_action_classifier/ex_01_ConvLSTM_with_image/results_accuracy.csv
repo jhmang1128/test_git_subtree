@@ -1,0 +1,4 @@
+optimizer,loss,epoch,batch_size,learning_rate,idx_repeat,Loss,Accuracy
+adam,categorical_crossentropy,250,30,1e-05,0,1.0562527179718018,0.7276995182037354
+adam,categorical_crossentropy,250,30,1e-05,1,0.8166983127593994,0.7136150002479553
+adam,categorical_crossentropy,250,30,1e-05,2,0.9238782525062561,0.7089201807975769
