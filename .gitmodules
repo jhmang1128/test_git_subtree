@@ -36,7 +36,10 @@
 #########################################################################################################
 [submodule "git_repository/object_detector/upgraded_repository/Mask_RCNN"]
 	path = git_repository/object_detector/upgraded_repository/Mask_RCNN
-	url = https://github.com/akTwelve/Mask_RCNN.git
+	url = git@github.com:leekunhee/Mask_RCNN.git
 [submodule "git_repository/object_detector/upgraded_repository/Mask_RCNN_tf_2.x"]
 	path = git_repository/object_detector/upgraded_repository/Mask_RCNN_tf_2.x
-	url = https://github.com/BupyeongHealer/Mask_RCNN_tf_2.x.git
+	url = git@github.com:BupyeongHealer/Mask_RCNN_tf_2.x.git
+[submodule "git_repository/object_detector/upgraded_repository/Mask-RCNN-TF2"]
+	path = git_repository/object_detector/upgraded_repository/Mask-RCNN-TF2
+	url = git@github.com:ahmedfgad/Mask-RCNN-TF2.git
