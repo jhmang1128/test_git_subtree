@@ -1,5 +1,4 @@
 None
-Fixed Object
 Obstruction (Avoiding)
 Automatic Door (Opening)
 Automatic Door (Closing)
@@ -15,8 +14,3 @@ Escalator (Moving)
 Escalator (Stopping)
 Elevator (Opening)
 Elevator (Closing)
-Address
-Sign
-Screen
-Handle
-Bell

@@ -1,9 +1,4 @@
 None
-Person
-Animal
-Vehicle
-Wheeled Object
-Movable Object
 Fixed Object
 Obstruction
 Automatic Door
@@ -16,11 +11,4 @@ Elevator
 Address
 Sign
 Screen
-Up
-Down
-Open
-Close
-Floor Button
-Emergency Button
 Handle
-Bell
