@@ -12,27 +12,12 @@
 	path = git_repository/multi_classifier/action_classifier-Deetas
 	url = git@github.com:KNUT-DBLAB/action_classifier-Deetas.git
 
-[submodule "git_repository/multi_classifier/image_classifier-LINK"]
-	path = git_repository/multi_classifier/image_classifier-LINK
-	url = git@github.com:KNUT-DBLAB/image_classifier-LINK.git
-
-#########################################################################################################
-# object_detector
-#########################################################################################################
 [submodule "git_repository/object_detector/Mask_RCNN"]
 	path = git_repository/object_detector/Mask_RCNN
 	url = https://github.com/KNUT-DBLAB/Mask_RCNN.git
 
 #########################################################################################################
 # object_tracker
-#########################################################################################################
-[submodule "git_repository/object_tracker/yolov4-deepsort"]
-	path = git_repository/object_tracker/yolov4-deepsort
-	url = https://github.com/KNUT-DBLAB/yolov4-deepsort.git
-
-
-#########################################################################################################
-# trash (will find and remove it)
 #########################################################################################################
 [submodule "git_repository/object_detector/upgraded_repository/Mask_RCNN"]
 	path = git_repository/object_detector/upgraded_repository/Mask_RCNN
