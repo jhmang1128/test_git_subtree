@@ -37,3 +37,6 @@ dataset_2021/Deetas/output_Mask_RCNN/generated_mask/
 ### log
 dataset_2021/Deetas/output_Mask_RCNN/print_log/
 dataset_2021/Deetas/output_Mask_RCNN/logs/
+
+### trained model
+dataset_2021/Deetas/output_action_classifier/ex_*_ConvLSTM_mini/
