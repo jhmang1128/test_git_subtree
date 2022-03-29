@@ -37,3 +37,6 @@
 [submodule "git_repository/submit_NIA/action_classifier-Deetas"]
 	path = git_repository/submit_NIA/action_classifier-Deetas
 	url = git@github.com:jhmang1128/action_classifier-Deetas.git
+[submodule "git_repository/image_retrieval/similar_image_retireval_kiwon"]
+	path = git_repository/image_retrieval/similar_image_retireval_kiwon
+	url = git@github.com:KNUT-DBLAB/similar_image_retireval_kiwon.git
