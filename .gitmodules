@@ -45,4 +45,4 @@
 	url = git@github.com:KNUT-DBLAB/Swin-Transformer.git
 [submodule "git_repository/instance_segmentation/Swin-Transformer-Object-Detection"]
 	path = git_repository/instance_segmentation/Swin-Transformer-Object-Detection
-	url = git@github.com:SwinTransformer/Swin-Transformer-Object-Detection.git
+	url = git@github.com:KNUT-DBLAB/Swin-Transformer-Object-Detection.git
