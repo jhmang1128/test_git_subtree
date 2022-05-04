@@ -40,3 +40,6 @@
 [submodule "git_repository/image_retrieval/similar_image_retireval_kiwon"]
 	path = git_repository/image_retrieval/similar_image_retireval_kiwon
 	url = git@github.com:KNUT-DBLAB/similar_image_retireval_kiwon.git
+[submodule "git_repository/instance_segmentation/Swin-Transformer"]
+	path = git_repository/instance_segmentation/Swin-Transformer
+	url = git@github.com:KNUT-DBLAB/Swin-Transformer.git
