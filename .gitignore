@@ -30,7 +30,7 @@ dataset_2021/Deetas/image_integrated/
 ### processed data
 dataset_2021/Deetas/data_22*/json_JSM/
 dataset_2021/Deetas/data_22*/json_MaskRCNN/
-dataset_2021/Deetas/data_22*/json_MaskRCNN_small/
+dataset_2021/Deetas/data_22*/json_MaskRCNN*/
 dataset_2021/Deetas/data_22*/json_ConvLSTM/
 
 ### trained model
