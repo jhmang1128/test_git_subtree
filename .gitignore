@@ -6,34 +6,40 @@ __pycache__
 
 
 #########################################################################################################
-# dataset
-#########################################################################################################
-####### Deetas
-dataset/deetas/data_21_*/image/
-dataset/deetas/image_integrated/
-
-####### Link business group dataset
-dataset/LINK_business_group/data_21_*/augmentation/
-dataset/LINK_business_group/data_21_*/image/
-
-####### MScoco
-dataset/mscoco/data_21_11_16/
-
-
-#########################################################################################################
 # pretrain model
 #########################################################################################################
 pretrained_models/
-!/pretrained_models/.keep
+
 
 #########################################################################################################
-# output of submodule
+# Link
 #########################################################################################################
-####### Mask RCNN
-/output_submodule/object_detector/Mask_RCNN/evaluation_detect/
-/output_submodule/object_detector/Mask_RCNN/print_log/
-/output_submodule/object_detector/Mask_RCNN/logs/
+dataset_2021/Link/data_2*/augmentation/
+dataset_2021/Link/data_2*/image/
 
-####### action classifier (Deetas)
-output_submodule/multi_classifier/action_classifier-Deetas/print_log/
-output_submodule/multi_classifier/action_classifier-Deetas/ex_*/model/
+
+#########################################################################################################
+# Deetas
+#########################################################################################################
+### image
+dataset_2021/Deetas/data_2*/image/
+dataset_2021/Deetas/image_all/
+dataset_2021/Deetas/image_whole/
+dataset_2021/Deetas/image_integrated/
+
+### processed data
+dataset_2021/Deetas/data_22*/json_JSM/
+dataset_2021/Deetas/data_22*/json_MaskRCNN/
+dataset_2021/Deetas/data_22*/json_MaskRCNN*/
+dataset_2021/Deetas/data_22*/json_ConvLSTM/
+
+### trained model
+dataset_2021/Deetas/output_action_classifier/ex_*/model/
+dataset_2021/Deetas/output_Mask_RCNN/generated_mask/
+
+### log
+dataset_2021/Deetas/output_Mask_RCNN/print_log/
+dataset_2021/Deetas/output_Mask_RCNN/logs/
+
+### trained model
+dataset_2021/Deetas/output_action_classifier/ex_*_ConvLSTM_mini/

@@ -60,7 +60,7 @@ dependencies:
     - six==1.16.0
     - tensorboard==2.2.2
     - tensorboard-plugin-wit==1.8.0
-    - tensorflow-gpu==2.3.0rc0
+    - tensorflow-gpu==2.3.0
     - termcolor==1.1.0
     - tf-estimator-nightly==2.3.0.dev2020062301
     - tqdm==4.62.3

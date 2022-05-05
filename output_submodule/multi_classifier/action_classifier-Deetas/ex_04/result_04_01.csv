@@ -1,1 +1,0 @@
-model_name,optimizer,loss,epoch,batch_size,learning_rate,idx_repeat,test_loss,test_accuracy
