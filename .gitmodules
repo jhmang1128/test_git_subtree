@@ -1,0 +1,42 @@
+#########################################################################################################
+# preprocess
+#########################################################################################################
+[submodule "git_repository/preprocess_data/preprocess_Deetas_dataset"]
+	path = git_repository/Data_processing/Deetas
+	url = git@github.com:KNUT-DBLAB/preprocess_Deetas_dataset.git
+
+#########################################################################################################
+# multi_classifier
+#########################################################################################################
+[submodule "git_repository/multi_classifier/action_classifier-Deetas"]
+	path = git_repository/multi_classifier/action_classifier-Deetas
+	url = git@github.com:KNUT-DBLAB/action_classifier-Deetas.git
+
+[submodule "git_repository/object_detector/Mask_RCNN"]
+	path = git_repository/object_Detection/tensorflow_repo/Mask_RCNN
+	url = https://github.com/KNUT-DBLAB/Mask_RCNN.git
+
+#########################################################################################################
+# object_tracker
+#########################################################################################################
+[submodule "git_repository/object_detector/upgraded_repository/Mask_RCNN"]
+	path = git_repository/object_detector/upgraded_repository/Mask_RCNN
+	url = git@github.com:leekunhee/Mask_RCNN.git
+[submodule "git_repository/object_detector/upgraded_repository/Mask_RCNN_tf_2.x"]
+	path = git_repository/object_detector/upgraded_repository/Mask_RCNN_tf_2.x
+	url = git@github.com:BupyeongHealer/Mask_RCNN_tf_2.x.git
+[submodule "git_repository/object_detector/maskrcnn_2.0"]
+	path = git_repository/object_detector/maskrcnn_2.0
+	url = git@github.com:jhmang1128/maskrcnn_2.0.git
+[submodule "git_repository/image_retrieval/similar_image_retireval_kiwon"]
+	path = git_repository/similar_image_retrieval/kiwon
+	url = git@github.com:KNUT-DBLAB/similar_image_retireval_kiwon.git
+[submodule "git_repository/instance_segmentation/Swin-Transformer"]
+	path = git_repository/instance_segmentation/Swin-Transformer
+	url = git@github.com:KNUT-DBLAB/Swin-Transformer.git
+[submodule "git_repository/instance_segmentation/Swin-Transformer-Object-Detection"]
+	path = git_repository/object_Detection/pytorch_repo/Swin-Transformer
+	url = git@github.com:KNUT-DBLAB/Swin-Transformer-Object-Detection.git
+[submodule "git_repository/instance_segmentation/mmdetection"]
+	path = git_repository/object_Detection/pytorch_repo/mmdetection
+	url = https://github.com/open-mmlab/mmdetection.git
