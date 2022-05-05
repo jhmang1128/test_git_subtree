@@ -22,18 +22,18 @@ dataset_2021/Link/data_2*/image/
 # Deetas
 #########################################################################################################
 ### processed data
-output_Git/Deetas/json_22*/json_JSM/
-output_Git/Deetas/json_22*/json_MaskRCNN/
-output_Git/Deetas/json_22*/json_MaskRCNN*/
-output_Git/Deetas/json_22*/json_ConvLSTM/
+Data_and_output/Deetas/22*/json_JSM/
+Data_and_output/Deetas/22*/json_MaskRCNN/
+Data_and_output/Deetas/22*/json_MaskRCNN*/
+Data_and_output/Deetas/22*/json_ConvLSTM/
 
 ### trained model
-output_Git/Deetas/action_classifier/ex_*/model/
-output_Git/Deetas/Mask_RCNN/generated_mask/
+Data_and_output/Deetas/action_classifier/ex_*/model/
+Data_and_output/Deetas/Mask_RCNN/generated_mask/
 
 ### log
-output_Git/Deetas/Mask_RCNN/print_log/
-output_Git/Deetas/Mask_RCNN/logs/
+Data_and_output/Deetas/Mask_RCNN/print_log/
+Data_and_output/Deetas/Mask_RCNN/logs/
 
 ### trained model
-output_Git/Deetas/action_classifier/ex_*_ConvLSTM_mini/
+Data_and_output/Deetas/action_classifier/ex_*_ConvLSTM_mini/
