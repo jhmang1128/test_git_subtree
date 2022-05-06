@@ -20,6 +20,8 @@ Data_and_output/Link/data_2*/augmentation/
 Data_and_output/Link/data_2*/image/
 
 ### Deetas
+Data_and_output/Deetas/2*/model/
+Data_and_output/Deetas/2*/image/
 Data_and_output/Deetas/22*/json_JSM/
 Data_and_output/Deetas/22*/json_MaskRCNN/
 Data_and_output/Deetas/22*/json_MaskRCNN*/
