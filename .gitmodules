@@ -40,3 +40,6 @@
 [submodule "git_repository/instance_segmentation/mmdetection"]
 	path = git_repository/object_Detection/pytorch_repo/mmdetection
 	url = https://github.com/open-mmlab/mmdetection.git
+[submodule "git_repository/object_Detection/pytorch_repo/apex"]
+	path = git_repository/object_Detection/pytorch_repo/apex
+	url = git@github.com:NVIDIA/apex.git
