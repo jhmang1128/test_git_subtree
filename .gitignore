@@ -10,27 +10,36 @@ __pycache__
 Pretrained_model/
 
 #########################################################################################################
-# Data and output
+# MS_coco
 #########################################################################################################
-### MS coco
 Data_and_output/MS_coco/
 
-### LINK
+#########################################################################################################
+# LINK
+#########################################################################################################
 Data_and_output/Link/data_2*/augmentation/
 Data_and_output/Link/data_2*/image/
 
-### Deetas
-Data_and_output/Deetas/2*/model/
+#########################################################################################################
+# Deetas
+#########################################################################################################
+### raw data
+Data_and_output/Deetas/image*/
 Data_and_output/Deetas/2*/image/
 Data_and_output/Deetas/22*/json_JSM/
-Data_and_output/Deetas/22*/json_MaskRCNN/
+
+### MaskRCNN
 Data_and_output/Deetas/22*/json_MaskRCNN*/
-Data_and_output/Deetas/22*/json_ConvLSTM/
-
-Data_and_output/Deetas/action_classifier/ex_*/model/
 Data_and_output/Deetas/Mask_RCNN/generated_mask/
-
 Data_and_output/Deetas/Mask_RCNN/print_log/
 Data_and_output/Deetas/Mask_RCNN/logs/
 
+### ConvLSTM
+Data_and_output/Deetas/action_classifier/ex_*/model/
+Data_and_output/Deetas/22*/json_ConvLSTM/
 Data_and_output/Deetas/action_classifier/ex_*_ConvLSTM_mini/
+
+
+#########################################################################################################
+# end
+#########################################################################################################
