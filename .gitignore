@@ -28,6 +28,9 @@ Data_and_output/Deetas/image*/
 Data_and_output/Deetas/2*/image/
 Data_and_output/Deetas/22*/json_JSM/
 
+### Common
+Data_and_output/Deetas/2*/model/
+
 ### MaskRCNN
 Data_and_output/Deetas/22*/json_MaskRCNN*/
 Data_and_output/Deetas/Mask_RCNN/generated_mask/
