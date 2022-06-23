@@ -26,7 +26,8 @@ Data_and_output/Link/data_2*/image/
 ### raw data
 Data_and_output/Deetas/image*/
 Data_and_output/Deetas/2*/image/
-Data_and_output/Deetas/22*/json_JSM/
+Data_and_output/Deetas/22*/*/
+!Data_and_output/Deetas/22*/json_raw/
 
 ### Common
 Data_and_output/Deetas/2*/model/
